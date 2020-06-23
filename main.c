@@ -10,6 +10,9 @@ Initial Security()
  //Sample Code
 }
 
-
+Initial Security()
+{
+ //Sample Code -- Updated security patches by Feature2
+}
 
 }
